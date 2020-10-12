@@ -1,0 +1,34 @@
+body {
+  font-family: ;
+  background-color: Beige;
+  text-align: center;
+}
+thead {
+  background-color: #aab5ff;
+}
+tbody {
+  background-color: #47589b;
+  color: White;
+}
+.secondTitle {
+  color: MidnightBlue;
+  font-weight: bold;
+}
+
+.Tag {
+  color: Thistle;
+}
+#head-title {
+  color: MediumVioletRed;
+}
+
+table {
+  display: table;
+  border: 2px solid SlateBlue;
+  text-align: center;
+  width: 650px;
+  margin: 0 auto;
+}
+.description {
+  text-align: left;
+}
